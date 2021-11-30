@@ -1,7 +1,7 @@
 body{
     margin : 0;
     box-sizing: border-box;
-    background: rebeccapurple;
+    background: teal;
     display: flex;
     justify-content : center;
     align-items: center;
